@@ -1,5 +1,6 @@
 # 💫 About Me:
-Sou estudante de IOT (Internet Of Things) <br>Linguagens C | C++ | Phyton | Java | HTML | SQL | CSS
+Sou estudante de IOT (Internet Of Things) <br>
+Linguagens C | C++ | Phyton | Java | HTML | SQL | CSS <br>
 Formada em química e apaixonada pela área de Ciência e Tecnologia 
 
 
